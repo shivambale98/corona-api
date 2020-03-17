@@ -1,0 +1,44 @@
+.block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.statBlock{
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    height: 120px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: #e0f2f1;
+}
+
+
+.head{
+    padding: 10px;
+    color:#1C2331;
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.number{
+    padding: 10px;
+    color:#ef5350 ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.head1{
+    color:#1c2331;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 30px;
+}
