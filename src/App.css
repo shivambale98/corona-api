@@ -16,3 +16,28 @@
   margin-bottom: 20px;
   margin-top: 0px;
 }
+
+
+@media(max-width: 800px){
+  .heading{
+    margin-left: 20px;
+    color: #1c2a48;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  
+  .main{
+    text-align: center;
+    color: #1c2a48;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+  text-indent: initial;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+  }
+  
+}
